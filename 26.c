@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main
+int main()
 {
 
 int list[30],i,j,num,temp;
